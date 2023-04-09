@@ -1,5 +1,6 @@
 # Fake User List
 A simple web application for a fake user list with a function to add and remove friends.
+This project is a practice of the Alpha Camp Semester 2-2.
 
 ## Features
 - listing fake users from user api
